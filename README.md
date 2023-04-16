@@ -13,6 +13,7 @@ Dalam menu admin terdapat beberapa fitur:
 4. Hapus Film
 5. Hapus Tanggal
 6. Menu User
+
 Disini terdapat fitur - fitur yang digunakan Admin untuk menambah film dengan tanggalnya, menghapus film dengan tanggalnya, dan dapat mengecek total penonton
 
 ### Menu Penonton
@@ -21,4 +22,5 @@ Dalam menu penonton terdapat beberapa fitur:
 2. Pemilihan Film
 3. Mencari Film
 4. Menu User
+
 Menu Penonton ini terdapat beberapa fitur untuk memudahkan penonton untuk melihat daftar film, memilih film yang akan ditonton, dan mencari nama film yang sedang tayang.
