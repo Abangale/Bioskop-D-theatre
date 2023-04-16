@@ -1,5 +1,4 @@
 # Bioskop-D-theatre
-
 ![Menu User](https://github.com/Abangale/Bioskop-D-theatre/blob/main/assets/images/user.png)
 
 Bioskop D'theatre ini adalah aplikasi dimana aplikasi tersebut membantu pengguna
@@ -8,6 +7,8 @@ untuk memilih film yang diinginkan untuk menonton.
 Selain itu, aplikasi tersebut dapat digunakan sebagai Admin dan Penonton
 
 ### Menu Admin
+![Menu Admin](https://github.com/Abangale/Bioskop-D-theatre/blob/main/assets/images/admin.png)
+
 Dalam menu admin terdapat beberapa fitur:
 1. Tambah Film
 2. Tambah Tanggal
@@ -19,6 +20,8 @@ Dalam menu admin terdapat beberapa fitur:
 Disini terdapat fitur - fitur yang digunakan Admin untuk menambah film dengan tanggalnya, menghapus film dengan tanggalnya, dan dapat mengecek total penonton
 
 ### Menu Penonton
+![Menu User](https://github.com/Abangale/Bioskop-D-theatre/blob/main/assets/images/penonton.png)
+
 Dalam menu penonton terdapat beberapa fitur:
 1. Daftar Film
 2. Pemilihan Film
