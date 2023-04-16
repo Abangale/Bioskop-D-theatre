@@ -1,5 +1,5 @@
 # Bioskop-D-theatre
-Aplikasi Bioskop D'theatre untuk membantu pengguna memilih film menggunakan Bahasa C.
+Aplikasi Bioskop D'theatre adalah aplikasi yang digunakan untuk membantu pengguna memilih film dalam sebuah bioskop menggunakan Bahasa C.
 
 ![Menu User](https://github.com/Abangale/Bioskop-D-theatre/blob/main/assets/images/user.png)
 
