@@ -1,5 +1,7 @@
 # Bioskop-D-theatre
 
+![Menu User](https://github.com/Abangale/Bioskop-D-theatre/blob/main/assets/images/user.png)
+
 Bioskop D'theatre ini adalah aplikasi dimana aplikasi tersebut membantu pengguna
 untuk memilih film yang diinginkan untuk menonton.
 
